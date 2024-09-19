@@ -5,7 +5,12 @@ VisualStudioVersion = 17.5.33414.496
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingletonPattern", "SingletonPattern\SingletonPattern.csproj", "{0D012802-0AC2-4735-B8FB-F58644AAECCC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyPattern", "StrategyPattern\StrategyPattern.csproj", "{2232DCF6-0ADA-4678-8B20-6CBB3C082455}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StrategyPattern", "StrategyPattern\StrategyPattern.csproj", "{2232DCF6-0ADA-4678-8B20-6CBB3C082455}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A780C284-F62A-4FE1-BF89-355EF22D3419}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
