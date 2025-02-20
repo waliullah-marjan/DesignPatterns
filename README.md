@@ -3,7 +3,7 @@
 The objective of this repository is to demonstrate the simple implementations of the OOP Design Patterns. 
 
 
-## Strategy Pattern
+## Strategy Pattern (Behavioral)
 
 #### Definition:
 
@@ -15,7 +15,7 @@ The Strategy Pattern defines a family of algorithms, encapsulates each one, and 
  - Favor composition over inheritance.
 
 
-## Observer Pattern
+## Observer Pattern (Behavioral)
 
 #### Definition:
 
