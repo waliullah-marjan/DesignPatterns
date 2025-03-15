@@ -25,6 +25,18 @@ The Observer Pattern defines a one-to-many dependency between objects so that wh
 
  - Strive for loosely coupled designs between objects that interact.
 
+
+## Decorator Pattern (Behavioral)
+
+The Decorator Pattern attaches additional responsibilities to an object dynamically, Decorators provide a flexible alternative to subclassing for extending functionality.
+
+#### Design Principles applied:
+
+ - Classes should be open for extension, but closed for modification.
+
+
+
+
 **NOTE:** The examples used in this repository are from the book "Head First Design Patterns".
 
 
